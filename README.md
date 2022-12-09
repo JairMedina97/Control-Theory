@@ -12,14 +12,14 @@ Control theory is one of the classes w/ branches of control that as an automatio
 8. Frequency response - Bode plot
 
 <p align="center">
-<img src="Images/1erorden.PNG" width="500" > 
-<img src="Images/1erorden1.PNG" width="500" > 
-<img src="Images/1erorden2.PNG" width="500" > 
-<img src="Images/1erorden3.PNG" width="500" > 
-<img src="Images/2dorden.PNG" width="500" > 
-<img src="Images/2dorden1.PNG" width="500" > 
-<img src="Images/sistipo1.PNG" width="500" > 
-<img src="Images/sistipo2.PNG" width="500" > 
+<img src="Images/1erorden.PNG" width="400" > 
+<img src="Images/1erorden1.PNG" width="400" > 
+<img src="Images/1erorden2.PNG" width="400" > 
+<img src="Images/1erorden3.PNG" width="400" > 
+<img src="Images/2dorden.PNG" width="400" > 
+<img src="Images/2dorden1.PNG" width="400" > 
+<img src="Images/sistipo1.PNG" width="400" > 
+<img src="Images/sistipo2.PNG" width="400" > 
 </p>
 
 # Classic Control Theory (Classic_CT)

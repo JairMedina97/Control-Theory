@@ -1,6 +1,12 @@
 ## Control-Theory
-Control theory is one of the classes w/ branches of control that as an automation student I have on my engineering curriculum.
+As an automation engineer, I have on my engineering curriculum different Control Theory classes that enhance my knowledge about control systems and design. This repository uses Scilab as a tool to analyze, design and apply the control theory and response of dynamical systems.
 
+## Bibliography
+
+- <a id="1">[1]</a> Katsuhiko Ogata (2010) Modern Control Engineering. 5th ed. Upper Saddle River, NJ: Prentice Hall. ISBN: 0136156738, 9780136156734
+
+- <a id="2">[2]</a> Norman S. Nise (2010) Control Systems Engineering . 6th ed. Wiley; Binder Ready Version. ISBN: 0470917695, 978-0470917695
+  
 # Intro to Control Theory (IntroCT)
 1. Intro to Control systems
 2. Mathematical modelling

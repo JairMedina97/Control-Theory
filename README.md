@@ -66,3 +66,15 @@ Control theory is one of the classes w/ branches of control that as an automatio
 6. Design of Servo Systems
 7. Observability
 8. Observer design
+
+
+<p align="center">
+<img src="Images/Modern1.PNG" width="500" > 
+<img src="Images/Modern3.PNG" width="500" > 
+<img src="Images/Modern2.PNG" width="500" > 
+<img src="Images/Modern4.PNG" width="500" > 
+<img src="Images/Modern5.PNG" width="500" > 
+<img src="Images/Modern6.PNG" width="500" > 
+<img src="Images/Modern7.PNG" width="500" > 
+<img src="Images/Modern8.PNG" width="500" > 
+</p>

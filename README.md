@@ -28,23 +28,34 @@ Control theory is one of the classes w/ branches of control that as an automatio
 2. Lag compensation 
 3. Lag-lead compensation 
 
-<p align="center">
-<img src="Images/RL1.PNG" width="300" > 
-<img src="Images/RL3.PNG" width="300" > 
-<img src="Images/RL4.PNG" width="300" > 
-<img src="Images/RL5.PNG" width="300" > 
-<img src="Images/RL7.PNG" width="300" > 
-<img src="Images/RL8.PNG" width="300" > 
-<img src="Images/RL9.PNG" width="300" > 
-<img src="Images/RL10.PNG" width="300" > 
-<img src="Images/RL11.PNG" width="300" > 
-</p>
-
 - Frequency Response Approach 
 4. Lead compensation 
 5. Lag compensation 
 6. Lag-lead compensation 
 
+<p align="center">
+<img src="Images/RL1.PNG" width="400" > 
+<img src="Images/RL3.PNG" width="400" > 
+<img src="Images/RL4.PNG" width="400" > 
+<img src="Images/RL5.PNG" width="400" > 
+<img src="Images/RL7.PNG" width="400" > 
+<img src="Images/RL8.PNG" width="400" > 
+<img src="Images/RL9.PNG" width="400" > 
+<img src="Images/RL10.PNG" width="400" > 
+<img src="Images/RL11.PNG" width="400" > 
+</p>
+
+
+
+<p align="center">
+<img src="Images/Freq1.PNG" width="500" > 
+<img src="Images/Freq2.PNG" width="500" > 
+<img src="Images/Freq3.PNG" width="500" > 
+<img src="Images/Freq7.PNG" width="500" > 
+<img src="Images/Freq4.PNG" width="500" > 
+<img src="Images/Freq5.PNG" width="500" > 
+<img src="Images/Freq6.PNG" width="500" > 
+</p>
 
 # Modern Control Theory (Modern_CT)
 1. State space representation

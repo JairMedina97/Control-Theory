@@ -14,12 +14,12 @@ Control theory is one of the classes w/ branches of control that as an automatio
 <p align="center">
 <img src="Images/1erorden.PNG" width="400" > 
 <img src="Images/1erorden1.PNG" width="400" > 
-<img src="Images/1erorden2.PNG" width="400" > 
-<img src="Images/1erorden3.PNG" width="400" > 
-<img src="Images/2dorden.PNG" width="400" > 
-<img src="Images/2dorden1.PNG" width="400" > 
-<img src="Images/sistipo1.PNG" width="400" > 
-<img src="Images/sistipo2.PNG" width="400" > 
+<img src="Images/1erorden2.PNG" width="300" > 
+<img src="Images/1erorden3.PNG" width="300" > 
+<img src="Images/2dorden.PNG" width="300" > 
+<img src="Images/2dorden1.PNG" width="300" > 
+<img src="Images/sistipo1.PNG" width="300" > 
+<img src="Images/sistipo2.PNG" width="300" > 
 </p>
 
 # Classic Control Theory (Classic_CT)
@@ -27,6 +27,18 @@ Control theory is one of the classes w/ branches of control that as an automatio
 1. Lead compensation 
 2. Lag compensation 
 3. Lag-lead compensation 
+
+<p align="center">
+<img src="Images/RL1.PNG" width="300" > 
+<img src="Images/RL3.PNG" width="300" > 
+<img src="Images/RL4.PNG" width="300" > 
+<img src="Images/RL5.PNG" width="300" > 
+<img src="Images/RL7.PNG" width="300" > 
+<img src="Images/RL8.PNG" width="300" > 
+<img src="Images/RL9.PNG" width="300" > 
+<img src="Images/RL10.PNG" width="300" > 
+<img src="Images/RL11.PNG" width="300" > 
+</p>
 
 - Frequency Response Approach 
 4. Lead compensation 
